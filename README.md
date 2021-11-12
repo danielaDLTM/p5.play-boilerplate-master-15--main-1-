@@ -1,1 +1,2 @@
-# p5.play-boilerplate-master-15--main-1-
+# p5.play-boilerplate
+Boiler plate for p5.play
